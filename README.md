@@ -1,4 +1,4 @@
-<img src ="https://user-images.githubusercontent.com/44746253/88864580-76e6f500-d1fd-11ea-8e56-c563a5cf798d.png" alt = "readme banner">
+<img src ="https://user-images.githubusercontent.com/44746253/88864580-76e6f500-d1fd-11ea-8e56-c563a5cf798d.png" alt = "readme banner height="600"">
 
 
 
