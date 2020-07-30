@@ -5,7 +5,6 @@ While I am passionate about all aspects of web technologies, I have a high-key i
 
 I am curretly open for work and collaboration!
 
-You can reach me at <a href ="mailto:amiradediran@gmail.com">amiradediran@gmail.com</a>
 
 
 
