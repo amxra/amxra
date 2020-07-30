@@ -1,4 +1,4 @@
-<img src ="https://user-images.githubusercontent.com/44746253/88865900-093cc800-d201-11ea-9e56-97f76ab1e9bb.png" alt = "readme banner">
+<img src ="https://user-images.githubusercontent.com/44746253/88924096-ac75f780-d26a-11ea-8949-821cb78eb0b4.png" alt = "readme banner">
 
 
 While I am passionate about all aspects of web technologies, I have a high-key interest in frontend development where I make use of technologies such as HTML, CSS, SCSS JavaScript, React, Bootstrap and jQuery to bring alluring designs to life. I have acquired the skills to build fully functional and responsive websites/ applications, implement CRUD operations, perform client side authentication, routing and testing amongst other things while using Github to manage version control. I am also capable of building RESTful apis using Nodejs.
